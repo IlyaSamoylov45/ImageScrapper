@@ -1,6 +1,6 @@
 # ImageScrapper
 ### How to use
-Run the program and a url for example : 
+Run the program and a url for example :  
 '''
 ImageScrapper.py url
 '''
