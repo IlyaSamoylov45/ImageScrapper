@@ -1,5 +1,5 @@
 # ImageScrapper
-### How to use
+### How to use  
 ---
 Run the program and a url for example :  
 ImageScrapper.py url  
