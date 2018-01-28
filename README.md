@@ -6,7 +6,7 @@ An image scrapper, takes a url and downloads all images off that site.
 Run the program and a url for example :  
 
 ```
-ImageScrapper.py url
+Image_scrapper.py url
 ```
 
 This will get all the images of the webpage.  
