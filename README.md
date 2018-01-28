@@ -1,14 +1,12 @@
 # ImageScrapper
 An image scrapper, takes a url and downloads all images off that site.
-### How to use  
+### How To Use  
 
 ---
 Run the program and a url for example :  
 
 ```
-
 ImageScrapper.py url
-
 ```
 
 This will get all the images of the webpage.  
@@ -18,4 +16,4 @@ I only tested this on Reddit and 4chan so it might not work for every site.
 
 ### To Do  
 ---
-+ [] Make Folder to save to
++ [ ] Make Folder to save to
