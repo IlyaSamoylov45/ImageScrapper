@@ -14,6 +14,3 @@ Do not write in an image file instead of a url.
 You must provide the http:// or https://  
 I only tested this on Reddit and 4chan so it might not work for every site.
 
-### To Do  
----
-+ [ ] Make Folder to save to
